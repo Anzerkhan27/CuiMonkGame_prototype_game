@@ -1,0 +1,9 @@
+Welcome to Monk Game
+
+Press 1 to Start the game
+
+Press 2 to select difficulty
+
+Fight the Monster in an turned based combat
+
+Enjoyyy!!!!!!

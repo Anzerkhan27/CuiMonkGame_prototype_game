@@ -1,0 +1,5 @@
+You have Entered Empty Room!
+
+You can pray in this Room to restore your HP!
+
+[1]PRAY      [2]Go to Next Room

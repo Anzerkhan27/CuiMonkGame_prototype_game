@@ -1,0 +1,5 @@
+You have Reached the Treasure Room!
+
+Take the Treasure to win the GAME
+
+[1]Take Treasure!

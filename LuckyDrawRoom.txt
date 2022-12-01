@@ -1,0 +1,5 @@
+You have Entered Lucky Draw Room!
+
+Drink the Magic potion and Try your Luck!
+
+[1]Drink Potion       [2]Go to Next Room

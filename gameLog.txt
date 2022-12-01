@@ -1,0 +1,120 @@
+
+Full game log
+Visited AttackRoom
+Drinking potion.....
+Drinking potion.....
+Drinking potion.....
+Drinking potion.....
+Drinking potion.....
+Drinking potion.....
+Drinking potion.....
+Drinking potion.....
+Drinking potion.....
+
+Visited Monster Room 
+Monks Turn
+Attacking Monster!
+Attacking failed
+Monsters Turn
+Monster is Defending
+Defence succesfull
+Monks Turn
+Attacking Monster!
+Attacking failed
+Monsters Turn
+Monster is Attacking
+Attack failed
+Monks Turn
+Attacking Monster!
+Attacking failed
+Monsters Turn
+Monster is Defending
+Defence succesfull
+Monks Turn
+Attacking Monster!
+Attacking failed
+Monsters Turn
+Monster is Defending
+Defence failed
+Monks Turn
+Attacking Monster!
+Attack Successfull
+Monsters Turn
+Monster is Attacking
+Attack succesfull
+Monks Turn
+Attacking Monster!
+Attack Successfull
+Monsters Turn
+Monster is Attacking
+Attack failed
+Monks Turn
+Attacking Monster!
+Attack Successfull
+You have KILLED THE MONSTER!
+Walking to the next Room---------
+
+Visited EmptyRoom
+Praying.....
+Walking to the next Room------
+
+Visited Monster Room 
+Monks Turn
+Attacking Monster!
+Attack Successfull
+Monsters Turn
+Monster is Attacking
+Attack failed
+Monks Turn
+Attacking Monster!
+Attacking failed
+Monsters Turn
+Monster is Defending
+Defence failed
+Monks Turn
+Attacking Monster!
+Attack Successfull
+Monsters Turn
+Monster is Attacking
+Attack failed
+Monks Turn
+Attacking Monster!
+Attack Successfull
+You have KILLED THE MONSTER!
+Walking to the next Room---------
+
+Visited Monster Room 
+Monks Turn
+Attacking Monster!
+Attack Successfull
+Monsters Turn
+Monster is Defending
+Defence failed
+Monks Turn
+Attacking Monster!
+Attacking failed
+Monsters Turn
+Monster is Defending
+Defence succesfull
+Monks Turn
+Attacking Monster!
+Attacking failed
+Monsters Turn
+Monster is Defending
+Defence succesfull
+Monks Turn
+Attacking Monster!
+Attack Successfull
+Monsters Turn
+Monster is Attacking
+Attack succesfull
+Monks Turn
+Attacking Monster!
+Attack Successfull
+You have KILLED THE MONSTER!
+Walking to the next Room---------
+
+Visited Treasure
+Taking Treasure...........
+YOU HAVE WON THE GAME
+

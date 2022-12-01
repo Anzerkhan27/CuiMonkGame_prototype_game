@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\lucif\source\repos\CuiMonkGame\Game.cpp(239,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lucif\source\repos\CuiMonkGame\Game.cpp(291,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lucif\source\repos\CuiMonkGame\Game.cpp(312,21): warning C4018: '<': signed/unsigned mismatch
+  CuiMonkGame.vcxproj -> C:\Users\lucif\source\repos\CuiMonkGame\Debug\CuiMonkGame.exe
